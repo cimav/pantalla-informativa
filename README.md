@@ -1,1 +1,1 @@
-# pantalla-informativa
+# Pantalla Informativa
